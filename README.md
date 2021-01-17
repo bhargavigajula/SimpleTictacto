@@ -1,20 +1,27 @@
-# SimpleTictacto
+# Simplegame
 
-This is the simple Tictacto Game which is played by 2 players.<br><br>This is simple 3 X 3 grid game.
-<br><br>
-Similar rules of normal Tictacto Game.<br>
-<br>This game is developed using **Angular**.
-<br><br>
-By clicking the start game button,new game will start.In Everyturn the current player is displayed on the screen.Once the game will won by any player that winner name will be displayed on the screen.Always player X start the game.
-<br><br>
-## Game Board
-<br><br>
-![Screenshot (142)](https://user-images.githubusercontent.com/72993229/104839666-87447680-58e8-11eb-9f73-3bd27ef8f046.png)
-<br><br>
-## Win the Game
-<br><br>
-![Screenshot (143)](https://user-images.githubusercontent.com/72993229/104839699-cecb0280-58e8-11eb-9b99-61a286ffc414.png)
-<br><br>
-## Tie
-<br><br>
-![Screenshot (144)](https://user-images.githubusercontent.com/72993229/104839722-f3bf7580-58e8-11eb-80a7-8f64e49509ce.png)
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
+
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
