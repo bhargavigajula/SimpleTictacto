@@ -1,27 +1,16 @@
-# Simplegame
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+# simple Tictacto Game
+This is simple 2 player Tictacto game.<br><br>Similar rules of normal Tictacto game.<br><br>This is implemented using **Angular**.<br><br>
+In every Turn Current Player name is displayed on the screen.<br><br>
+By clicking the start game button new game will start.If the game is won by any player that player name is displayed on the screen.Every Time Player X start the game.
+<br><br>
+## Game Board
+<br>
+![Screenshot (142)](https://user-images.githubusercontent.com/72993229/104843303-e2c63280-58ef-11eb-90ce-c87b4c7c8ece.png)
+<br><br>
+## After Win the Game
+<br>
+![Screenshot (143)](https://user-images.githubusercontent.com/72993229/104843320-ff626a80-58ef-11eb-931f-23075f2d9ce7.png)
+<br>
+## Tie
+<br>
+![Screenshot (144)](https://user-images.githubusercontent.com/72993229/104843339-1608c180-58f0-11eb-848e-8d8c759bd75e.png)
